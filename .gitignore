@@ -23,3 +23,5 @@ yarn-error.log*
 
 # local db
 neo4j
+api/.env
+api/passwd
